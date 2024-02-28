@@ -8,7 +8,8 @@ version: 2
 # Personal info
 name: Kim Cheolhee
 title: Master's student
-email: setg1502@naver.com
+Personal email: setg1502@naver.com
+Institute email: setg1502@kist.re.kr
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -71,7 +72,7 @@ content:
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Paralies/Bioinformatics-project-gene-prediction
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -88,7 +89,7 @@ content:
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -160,6 +161,14 @@ content:
         title: Dongguk University
         sub_title: Bachelor of Computer Science and Engineering
         caption: Mar. 2018 - Feb. 2024
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: Korea University
+        sub_title: Master of Computer
+        caption: Mar. 2024 - Present
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
