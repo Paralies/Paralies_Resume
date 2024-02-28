@@ -72,12 +72,9 @@ content:
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
-          - title: Paralies/Bioinformatics-project-gene-prediction
+          - title: Link to bioinformatics project
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: Paralies/Bioinformatics-project-gene-prediction
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
