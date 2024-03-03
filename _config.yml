@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kim Cheolhee
-title: Master's student
+title: Junior AI Engineer/Master's student
 Personal email: setg1502@naver.com
 Institute email: setg1502@kist.re.kr
 # email_title: Email (Email title override)
@@ -51,15 +51,16 @@ github_username:  Paralies
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hello, my name is Cheolhee Kim. I've earned my bachelor's degree in Donnguk University and I'm in the course of master's student in Korea University now. 
+  I am interested in deep learning, esecially computer vision and learning models.
+  Though I am focusing on the deep learning area, I really like to experience the broad area of computer engineering!
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Bachelor Student (Dongguk University, Korea)
+    - Overall GPA: 4.13/4.5
+    - Major GPA: 4.23/4.5
+    - Credits Earned: 144/140
 
 content:
   - title: Projects # Title for the section
@@ -68,86 +69,61 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: (Course Project) Creating 2D action game using Unity engine
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: (Course Project) Open SW Project
         additional_links:
-          - title: Link to bioinformatics project
+          - title: GitHub page for Open SW Project
             icon: fab fa-github
-            url: Paralies/Bioinformatics-project-gene-prediction
+            url: https://github.com/CSID-DGU/2022-1-OSSP2-Bumeok_Jjikmeok-6
         quote: >
-          Short overview of the project (optional)
+          Mar. 2022 ~ Jun. 2022
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Creating 2D action game using Unity engine. In this project, I developed the 2D action game with platform style, using the assets of the unique art of Dongguk University made by our team. I mainly took charge of developing the game inspired by 'Golfing Over It', entire story direction and sound design.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: (Course Project) Algorithms in Bioinformatics
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
         additional_links:
-          - title: Link to bioinformatics project
+          - title: GitHub page for bioinformatics project
             icon: fab fa-github
             url: https://github.com/Paralies/Bioinformatics-project-gene-prediction
         quote: >
-          Short overview of the project (optional)
+          Sep. 2022 ~ Dec. 2022
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Gene Prediction with Similarity and Statistical Approach. I was in charge of developing gene prediction using hidden Markov model and Viterbi algorithm
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: HMG (Hyundai Motor Group) Autonomous Driving Challenge 2023 - Virtual Track
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Oct. 2022 ~ May. 2023
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Racing a single track in a virtual world with an autonomous car. I was in charge of object detection (car, traffic sign) using YOLO model
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: The 6th Kookmin University Autonomous Driving Competition
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Jun. 2023 ~ Aug. 2023
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Racing a track with RC car that self driving system loaded on the system. I was in charge of vision object detection and LiDAR detection. Our team has advanced to the final round with the rank of 8/91 teams.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: (Course Project) Computer Engineering Capstone Design 1, 2
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11711825
+        link_text: Paper-Generating 2D LEGO Instruction Manual Using Deep Learning Model
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Github page for Capstone Design
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/CSID-DGU/2023-1-CECD2-AImport-7
         quote: >
-          Short overview of the project (optional)
+          Mar. 2023 ~ Dec. 2023
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Generating a LEGO Manual Using Deep Learning Model. I was in charge of image segmentation and converting an image into an 2D LEGO structure. Our team won 3rd prize on the final presentation in the university and published the paper in Korea Society of Computer Information (KSCI)
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Korean Institue of Science and Technology (KIST)
         sub_title: Internship
         caption: Jan. 2023 - Feb. 2024
@@ -156,7 +132,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-      - layout: right
+      - layout: left
         title: Korean Institue of Science and Technology (KIST)
         sub_title: Student researcher
         caption: Mar. 2024 - Present
@@ -168,7 +144,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Dongguk University
         sub_title: Bachelor of Computer Science and Engineering
         caption: Mar. 2018 - Feb. 2024
@@ -176,7 +152,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-      - layout: top-right
+      - layout: left
         title: Korea University
         sub_title: Master of Computer
         caption: Mar. 2024 - Present
