@@ -57,11 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am interested in deep learning, esecially computer vision and learning models.
   Though I am focusing on the deep learning area, I really like to experience the broad area of computer engineering!
 
-  Bachelor Student (Dongguk University, Korea)
-    - Overall GPA: 4.13/4.5
-    - Major GPA: 4.23/4.5
-    - Credits Earned: 144/140
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -127,39 +122,53 @@ content:
         title: Korean Institue of Science and Technology (KIST)
         sub_title: Internship
         caption: Jan. 2023 - Feb. 2024
-        link: Link to company (optional)
+        link: https://bsi.kist.re.kr/
         quote: >
-          Short description of the company (optional)
+          Learned about the computational intelligence and the relation between neurophysics. Project on autonomous driving in virtual simulation and ECG augmentation/classification
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Undergraduate research student
       - layout: left
         title: Korean Institue of Science and Technology (KIST)
-        sub_title: Student researcher
+        sub_title: Student Researcher
         caption: Mar. 2024 - Present
-        link: Link to company (optional)
+        link: https://bsi.kist.re.kr/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Student researcher on the course of master's degree
   - title: Education
     layout: list
     content:
       - layout: left
         title: Dongguk University
-        sub_title: Bachelor of Computer Science and Engineering
+        sub_title: Major in Department of Computer Science and Engineering
         caption: Mar. 2018 - Feb. 2024
         quote: >
-          Short institution or course description (optional)
+              - Overall GPA: 4.13/4.5
+              - Major GPA: 4.23/4.5
+              - Credits Earned: 144/140
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Bachelor of Science in Computer Science and Engineering
       - layout: left
         title: Korea University
-        sub_title: Master of Computer
+        sub_title: Major in Department of Computer Science and Engineering
         caption: Mar. 2024 - Present
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          On the course of master's student...
+  - title: Awards
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - title: Qualification
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
